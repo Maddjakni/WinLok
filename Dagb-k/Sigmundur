@@ -2,3 +2,5 @@ Dagbók Sigmundar fyrir Hópverkefni í Windows Vorönn 2017.
 25.04.17
 Byrja verkefni með Oddi :)
 Ég er að installa AD-DS og búin að búa til csv og script
+Búin að búat til root domain og setja ip tölu á serverinn í reykjavík
+síðan reyndi ég að skrifa ipconfig /release og mysti tenginguna á client vélinn, adell lagar seinna :)
