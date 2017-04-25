@@ -1,0 +1,3 @@
+# WinLok
+Windows Lokaverkefni
+coolbeans
