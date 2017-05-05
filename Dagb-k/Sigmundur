@@ -3,7 +3,15 @@ Dagbók Sigmundar fyrir Hópverkefni í Windows Vorönn 2017.
 Byrja verkefni með Oddi :)
 Ég er að installa AD-DS og búin að búa til csv og script
 Búin að búat til root domain og setja ip tölu á serverinn í reykjavík
-síðan reyndi ég að skrifa ipconfig /release og mysti tenginguna á client vélinn, adell lagar seinna :)
+síðan reyndi ég að skrifa ipconfig /release og mysti tenginguna á client vélinn, abel lagar seinna :)
+
 28.04.17
 oddur er að horfa á memes
 ég er að borða súpu lífið er gott
+
+5.5.17
+Setti up WINS
+Bjó til script og csv skrá og keyrði á main server
+Joinaði virtual vélina við main domain.
+reyndi að tengja domain controllera (fail)
+sá til að allir userar geti komist inn á windows 8 vélina :D
