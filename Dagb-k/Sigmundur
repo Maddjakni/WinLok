@@ -15,3 +15,13 @@ Bjó til script og csv skrá og keyrði á main server
 Joinaði virtual vélina við main domain.
 reyndi að tengja domain controllera (fail)
 sá til að allir userar geti komist inn á windows 8 vélina :D
+
+
+7.5.17
+kláraði uppsetningu á dns
+setti upp wins
+setti upp möppur fyrir deildir og heimasvæði
+setti screensaver á þá sem áttu að hafa
+sá til þess að allir notendur geti skráð sig inn á w8 tölvur á domaininu
+setti quota á harða diskinn
+setti upp monitoring system (gleymdi passwordinu xD)
